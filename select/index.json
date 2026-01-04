@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛心",
+  "base_artist": "川崎鷹也",
+  "createdAt": "2026-01-04T05:51:37.177976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛心",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_愛心_川崎_鷹也.txt"
+    }
+  ]
+}
